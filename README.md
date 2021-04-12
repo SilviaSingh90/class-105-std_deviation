@@ -1,1 +1,2 @@
-# class-105-std_deviation
+# Standard_deviation
+solution for c105
